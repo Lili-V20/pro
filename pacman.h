@@ -1,0 +1,12 @@
+void setCColor( int color);
+void gotoxy(int x, int y);
+void pintar_mapa();
+void pacman(int x , int y);
+void borrar_pacman(int x, int y);
+void teclear();
+void dibujar_fantasma();
+void borrar_fantasma();
+void mover_fantasma();
+void choque_pacman();
+void marcador();
+void menu();
